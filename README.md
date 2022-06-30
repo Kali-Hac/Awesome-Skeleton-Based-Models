@@ -272,9 +272,9 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 
 
 ### 2020 (Action Recognition) 
-```
-(Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
-```
+
+- (Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
+
 - **[MV-IGNET]** Learning Multi-View Interactional Skeleton Graph for Action Recognition (**TPAMI 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)][[Github](https://github.com/niais/mv-ignet)] ![](https://img.shields.io/github/stars/niais/mv-ignet.svg?style=social)
 - **[MS-AAGCN]** Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks (**TIP 2020**) [[paper](https://arxiv.org/pdf/1912.06971.pdf)]
 - **[P&C FW-AEC]** PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)]
