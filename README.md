@@ -2,7 +2,7 @@
 
 We search and collect existing **3D skeleton-based research** of *all categaories* published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, TIP, TMM, TNNLS, PMLR, Pattern Recognition, etc*).
 
-If you have any problems, suggestions or improvements, please feel free to contact me(haocongrao@gmail.com). Welcome to discuss together.
+If you have any problems, suggestions or improvements, please feel free to contact me (haocong001@ntu.edu.sg). Welcome to discuss together.
 
 ## TODO <!-- omit in toc -->
 
@@ -36,6 +36,7 @@ If you have any problems, suggestions or improvements, please feel free to conta
   - [Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets](#leaderboards-on-ntu-rgbd-and-ntu-rgbd-120-datasets)
     - [NTU-RGB+D](#ntu-rgbd)
     - [NTU-RGB+D 120](#ntu-rgbd-120)
+- [Acknowledge](#acknowledge)
 
 
 
@@ -64,7 +65,7 @@ If you have any problems, suggestions or improvements, please feel free to conta
 - (2014) Northwestern-UCLA Dataset (**N-UCLA**) [[donwload](https://users.eecs.northwestern.edu/~jwa368/my_data.html)]
 <!-- - SBU Kinect Interaction Dataset (**SBU**) -->
 
-Overview of available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (***TPAMI 2022***) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
+Overview of available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
 
 ```
 S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audio, Ac: Acceleration, Gyr: Gyroscope, EMG: Electromyography. Bold shows the most-frequently used datasets in the literature.
@@ -149,11 +150,11 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 
 
 ### Action Recognition Survey
-- Human Action Recognition and Prediction: A Survey Recognition Algorithms (***IJCV 2022***) [[paper](https://doi.org/10.1007/s11263-022-01594-9)]
+- Human Action Recognition and Prediction: A Survey Recognition Algorithms (**IJCV 2022**) [[paper](https://doi.org/10.1007/s11263-022-01594-9)]
 
-- Human Action Recognition from Various Data Modalities: A Review (***TPAMI 2022***) [[arxiv](https://arxiv.org/abs/2012.11866)]
+- Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)]
 
-- A Comparative Review of Recent Kinect-based Action Recognition Algorithms (***TIP 2019***) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
+- A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
 
 
 ### 2022 (Action Recognition)
@@ -443,3 +444,21 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
 | 2021 | CTR-GCN                             |     88.9      |    90.6     |
+
+
+
+
+
+
+
+
+
+
+
+## Acknowledge
+
+Thanks for the awesome repositories from [Niais](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition), etc. 
+
+I will appreacite much if you help re-organize and refine current taxonomy (e.g., add more works related to 3D skeletons) and archive uncategoried papers or anything to enrich this repository. 
+
+If you have any problems, suggestions or improvements, please feel free to contact me (haocong001@ntu.edu.sg). Welcome to discuss together.
