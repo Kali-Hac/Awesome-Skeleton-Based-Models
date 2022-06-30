@@ -6,15 +6,15 @@ If you have any problems, suggestions or improvements, please feel free to conta
 
 ## TODO <!-- omit in toc -->
 
-- [ ] Paper list
-  - [x] action recognition
-  - [ ] pose estimation
-  - [ ] motion prediction
-  - [ ] interaction recognition
-  - [ ] gesture recognition
-  - [ ] gait recognition
-  - [x] person re-identification *(New!)*
-  - [ ] others (action prediction, video anamaly detection, etc)
+- [ ] Paper List
+  - [x] Action Recognition
+  - [ ] Pose Estimation
+  - [ ] Motion Prediction
+  - [ ] Interaction Recognition
+  - [ ] Gesture Recognition
+  - [ ] Gait Recognition
+  - [x] Person Re-Identification *(New!)*
+  - [ ] Others (Action Prediction, Video Anamaly Detection, etc)
 
 ## Contents <!-- omit in toc -->
 
@@ -85,7 +85,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 |   **9**  | [**CAD-60**](http://pr.cs.cornell.edu/humanactivities/)            | **2011** |        **RGB,S,D** |      **12** |         **4** |       **60** |              **—** |
 |    10    | [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database)                 |     2011 |                RGB |          51 |             — |        6,766 |                  — |
 |  **11**  | [**RGB-HuDaAct**](http://www.ifp.illinois.edu/~moulin/Papers/RGBD-HuDaAct.pdf)        | **2011** |          **RGB,D** |      **13** |        **30** |    **1,189** |              **1** |
-|  **12**  | [**ACT4$^{2}$**](https://sites.google.com/site/qinleisite/Home/dataset)         | **2012** |          **RGB,D** |      **14** |        **24** |    **6,844** |              **4** |
+|  **12**  | [**ACT4^{2}**](https://sites.google.com/site/qinleisite/Home/dataset)         | **2012** |          **RGB,D** |      **14** |        **24** |    **6,844** |              **4** |
 |    13    | DHA                    |     2012 |              RGB,D |          17 |            21 |          357 |                  1 |
 |  **14**  | [**MSRDailyActivity3D**](http://research.microsoft.com/%E2%88%BCzliu/ActionRecoRsrc) | **2012** |        **RGB,S,D** |      **16** |        **10** |      **320** |              **1** |
 |    15    | UCF101                 |     2012 |                RGB |         101 |             — |       13,320 |                  — |
@@ -107,7 +107,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 |    31    | TJU                    |     2015 |            RGB,S,D |          15 |            20 |        1,200 |                  1 |
 |  **32**  | [**UTD-MHAD**](https://www.utdallas.edu/~kehtar/UTD-MHAD.html)           | **2015** | **RGB,S,D,Ac,Gyr** |      **27** |         **8** |      **861** |              **1** |
 |  **33**  | [**UWA3D Multiview II**](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html) | **2015** |        **RGB,S,D** |      **30** |        **10** |    **1,075** |              **4** |
-|  **34**  | [**M$^{2}$I**](https://pubmed.ncbi.nlm.nih.gov/27429453/)           | **2015** |        **RGB,S,D** |      **22** |        **22** |    **~1800** |              **2** |
+|  **34**  | [**M^{2}I**](https://pubmed.ncbi.nlm.nih.gov/27429453/)           | **2015** |        **RGB,S,D** |      **22** |        **22** |    **~1800** |              **2** |
 |    35    | [Charades](http://vuchallenge.org/charades.html)               |     2016 |                RGB |         157 |           267 |        9,848 |                  — |
 |    36    | InfAR                  |     2016 |                 IR |          12 |            40 |          600 |                  2 |
 |  **37**  | [**NTU RGB+D**](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)          | **2016** |     **RGB,S,D,IR** |      **60** |        **40** |   **56,880** |             **80** |
