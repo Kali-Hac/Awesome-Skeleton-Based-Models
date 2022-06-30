@@ -22,25 +22,24 @@ If you have any problems, suggestions or improvements, please feel free to conta
   - [Microsoft Kinect](#microsoft-kinect)
   - [Other Tracking Devices](#other-tracking-devices)
 - [Action Recognition](#action-recognition)
-  - [Datasets](#datasets)
-  - [Survey](#survey)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
-  - [before 2017](#before-2017)
-- [Semi-supervised and Unsupervised Skeleton Rrepresentation](#semi-supervised-and-unsupervised-skeleton-rrepresentation)
-  - [arXiv](#arxiv)
-  - [papers](#papers)
-- [Skeleton-based Action Recognition under Adversarial Attack](#skeleton-based-action-recognition-under-adversarial-attack)
-- [Supervised Skeleton-based Action Recognition](#supervised-skeleton-based-action-recognition)
-  - [arXiv papers](#arxiv-papers)
-  - [Survey](#survey-1)
-- [LeaderBoard](#leaderboard)
-  - [NTU-RGB+D](#ntu-rgbd)
-  - [NTU-RGB+D 120](#ntu-rgbd-120)
+  - [Popular Datasets with Skeletons](#popular-datasets-with-skeletons)
+  - [Action Recognition Survey](#action-recognition-survey)
+  - [2022 (Action Recognition)](#2022-action-recognition)
+  - [2021 (Action Recognition)](#2021-action-recognition)
+  - [2020 (Action Recognition)](#2020-action-recognition)
+  - [2019 (Action Recognition)](#2019-action-recognition)
+  - [2018 (Action Recognition)](#2018-action-recognition)
+  - [2017 (Action Recognition)](#2017-action-recognition)
+  - [Before 2017 (Action Recognition)](#before-2017-action-recognition)
+  - [arXiv papers (Action Recognition)](#arxiv-papers-action-recognition)
+  - [Skeleton-based Action Recognition under Adversarial Attack](#skeleton-based-action-recognition-under-adversarial-attack)
+  - [Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets](#leaderboards-on-ntu-rgbd-and-ntu-rgbd-120-datasets)
+    - [NTU-RGB+D](#ntu-rgbd)
+    - [NTU-RGB+D 120](#ntu-rgbd-120)
+
+
+
+
 
 ## Skeleton Tracking
 
@@ -272,8 +271,10 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - **[AS-CAL]** Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition (**Inf. Sci. 2021**) [[paper](https://doi.org/10.1016/j.ins.2021.04.023)] [[Github](https://github.com/LZU-SIAT/AS-CAL)] ![](https://img.shields.io/github/stars/LZU-SIAT/AS-CAL.svg?style=social)
 
 
-### 2020 (Action Recognition) (Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
-
+### 2020 (Action Recognition) 
+```
+(Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
+```
 - **[MV-IGNET]** Learning Multi-View Interactional Skeleton Graph for Action Recognition (**TPAMI 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)][[Github](https://github.com/niais/mv-ignet)] ![](https://img.shields.io/github/stars/niais/mv-ignet.svg?style=social)
 - **[MS-AAGCN]** Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks (**TIP 2020**) [[paper](https://arxiv.org/pdf/1912.06971.pdf)]
 - **[P&C FW-AEC]** PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition (**CVPR 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)]
@@ -350,7 +351,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - PKU-MMD: A large scale benchmark for continuous multi-modal human action understanding (*ACMMM Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1703.07475.pdf)]
 - **[Temporal Conv]** Interpretable 3d human action analysis with temporal convolutional networks (*CVPR Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1704.04516.pdf)]
 
-### before 2017 (Action Recognition)
+### Before 2017 (Action Recognition)
 
 - **[Trust Gate ST-LSTM]** Spatio-temporal lstm with trust gates for 3d human action recognition (**ECCV 2016**) [[arxiv](https://arxiv.org/pdf/1607.07043.pdf)] [[Github](https://github.com/kinect59/Spatio-Temporal-LSTM)] ![](https://img.shields.io/github/stars/kinect59/Spatio-Temporal-LSTM.svg?style=social)
 - **[Part-aware LSTM]** NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (**CVPR 2016**) [[arxiv](https://arxiv.org/pdf/1604.02808.pdf)]
@@ -384,7 +385,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 
 
 
-### Model Performance on NTU-RGB+D and NTU-RGB+D 120 Datasets
+### Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets
 
 #### NTU-RGB+D
 
