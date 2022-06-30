@@ -7,13 +7,13 @@ If you have any problems, suggestions or improvements, please feel free to conta
 ## TODO <!-- omit in toc -->
 
 - [ ] Paper list
-  - [√] action recognition
-  - [] pose estimation
-  - [] motion prediction
-  - [] interaction recognition
-  - [] gesture recognition
-  - [] gait recognition
-  - [√] person re-identification *(New!)*
+  - [x] action recognition
+  - [ ] pose estimation
+  - [ ] motion prediction
+  - [ ] interaction recognition
+  - [ ] gesture recognition
+  - [ ] gait recognition
+  - [x] person re-identification *(New!)*
   - [ ] others (action prediction, video anamaly detection, etc)
 
 ## Contents <!-- omit in toc -->
@@ -54,7 +54,7 @@ If you have any problems, suggestions or improvements, please feel free to conta
 - [Astra Pro](https://pterneas.com/2018/04/30/orbbec-astra-nuitrack/)
 
 ## Action Recognition
-### Popular Skeleton-based Datasets
+### Popular Datasets with Skeletons
 - *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton)] ![](https://img.shields.io/github/stars/open-mmlab/mmaction2.svg?style=social)
 - *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)] ![](https://img.shields.io/github/stars/skelemoa/ntu-x.svg?style=social)
 - *(2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
@@ -65,10 +65,10 @@ If you have any problems, suggestions or improvements, please feel free to conta
 - (2014) Northwestern-UCLA Dataset (**N-UCLA**) [[donwload](https://users.eecs.northwestern.edu/~jwa368/my_data.html)]
 <!-- - SBU Kinect Interaction Dataset (**SBU**) -->
 
-Overview of available datasets (2004-2022) for action recognition and their statistics, provided by the paper of (***TPAMI 2022***) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
+Overview of available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (***TPAMI 2022***) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
 
 ```
-**S**: Skeleton, **D**: Depth, **IR**: Infrared, **PC**: Point Cloud, **ES**: Event Stream, **Au**: Audio, **Ac**: Acceleration, **Gyr**: Gyroscope, **EMG**: Electromyography. **Bold** shows the most-frequently used datasets in the literature.
+S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audio, Ac: Acceleration, Gyr: Gyroscope, EMG: Electromyography. Bold shows the most-frequently used datasets in the literature.
 ```
 
 <!-- ![datasets](./AR-datasets.jpg) -->
@@ -149,7 +149,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 
 
 
-### Survey
+### Action Recognition Survey
 - Human Action Recognition and Prediction: A Survey Recognition Algorithms (***IJCV 2022***) [[paper](https://doi.org/10.1007/s11263-022-01594-9)]
 
 - Human Action Recognition from Various Data Modalities: A Review (***TPAMI 2022***) [[arxiv](https://arxiv.org/abs/2012.11866)]
@@ -157,122 +157,122 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (***TIP 2019***) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
 
 
-### 2022
-- Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition (**TPAMI**) [[paper](https://arxiv.org/pdf/2106.15125.pdf)] [[Github](https://github.com/yfsong0709/EfficientGCNv1)] ![](https://img.shields.io/github/stars/yfsong0709/EfficientGCNv1.svg?style=social) (Not uploaded) [[Gitee](https://gitee.com/yfsong0709/EfficientGCNv1)]
+### 2022 (Action Recognition)
+- Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition (**TPAMI 2022**) [[paper](https://arxiv.org/pdf/2106.15125.pdf)] [[Github](https://github.com/yfsong0709/EfficientGCNv1)] ![](https://img.shields.io/github/stars/yfsong0709/EfficientGCNv1.svg?style=social) (Not uploaded) [[Gitee](https://gitee.com/yfsong0709/EfficientGCNv1)]
 
-- **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction (**TPAMI**) [[paper](https://ieeexplore.ieee.org/document/9334430)] [[Github](https://github.com/LevelCA/Sym-GNN)] ![](https://img.shields.io/github/stars/LevelCA/Sym-GNN.svg?style=social) (Not uploaded)
+- **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/document/9334430)] [[Github](https://github.com/LevelCA/Sym-GNN)] ![](https://img.shields.io/github/stars/LevelCA/Sym-GNN.svg?style=social) (Not uploaded)
 
-- **[X-CAR]** X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition(**TIP**) [[paper](https://doi.org/10.1109/TIP.2022.3175605)]
+- **[X-CAR]** X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition(**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2022.3175605)]
 
 - **[FGCN]** Feedback Graph Convolutional Network for Skeleton-Based Action Recognition
-(**TIP**) [[paper](https://doi.org/10.1109/TIP.2021.3129117)]
+(**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2021.3129117)]
 
-- **[Multi-LiSAAL]** Multi-Localized Sensitive Autoencoder-Attention-LSTM For Skeleton-based Action Recognition(**TMM**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
+- **[Multi-LiSAAL]** Multi-Localized Sensitive Autoencoder-Attention-LSTM For Skeleton-based Action Recognition(**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
 
 - **[LAGA-Net]** LAGA-Net: Local-and-Global Attention Network for Skeleton Based Action Recognition
-(**TMM**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
+(**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
 
 - **[CIASA]** Adversarial Attack on Skeleton-Based Human Action Recognition
-(**TNNLS**) [[paper](https://doi.org/10.1109/TNNLS.2020.3043002)]
+(**TNNLS 2022**) [[paper](https://doi.org/10.1109/TNNLS.2020.3043002)]
 
-- **[MTT]** MTT: Multi-Scale Temporal Transformer for Skeleton-Based Action Recognition(**IEEE Signal Process. Lett.**) [[paper](https://doi.org/10.1109/LSP.2022.3142675)]
+- **[MTT]** MTT: Multi-Scale Temporal Transformer for Skeleton-Based Action Recognition(**IEEE Signal Process. Lett. 2022**) [[paper](https://doi.org/10.1109/LSP.2022.3142675)]
 
-- **[Graph2Net]** Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://doi.org/10.1109/TCSVT.2021.3085959)] [[Github](https://github.com/cong-wu/Graph2Net)] ![](https://img.shields.io/github/stars/cong-wu/Graph2Net.svg?style=social)
-
-
-- A Cross View Learning Approach for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://doi.org/10.1109/TCSVT.2021.3100128)]
-
-- Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl.**) [[paper](https://doi.org/10.1145/3472722)] [[Github](https://github.com/shanice-l/st-cubism)] ![](https://img.shields.io/github/stars/shanice-l/st-cubism.svg?style=social)
-
-- Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl.**) [[paper](https://doi.org/10.1145/3491228)]
-
-- **[SparseShift-GCN]** SparseShift-GCN: High precision skeleton-based action recognition(**Pattern Recognit. Lett.**) [[paper](https://doi.org/10.1016/j.patrec.2021.12.005)]
-
-- **[FR-AGCN]** Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition(**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2021.12.054)] [[Github](https://github.com/Nanasaki-Ai/FR-AGCN)] ![](https://img.shields.io/github/stars/Nanasaki-Ai/FR-AGCN.svg?style=social)
-
-- **[ED-GCN]** Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition(**Comput. Vis. Image Underst.**) [[paper](https://doi.org/10.1016/j.cviu.2021.103348)]
+- **[Graph2Net]** Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3085959)] [[Github](https://github.com/cong-wu/Graph2Net)] ![](https://img.shields.io/github/stars/cong-wu/Graph2Net.svg?style=social)
 
 
-### 2021
-- Quo Vadis, Skeleton Action Recognition ? (**IJCV**) [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] ![](https://img.shields.io/github/stars/skelemoa/quovadis.svg?style=social)
+- A Cross View Learning Approach for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3100128)]
+
+- Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3472722)] [[Github](https://github.com/shanice-l/st-cubism)] ![](https://img.shields.io/github/stars/shanice-l/st-cubism.svg?style=social)
+
+- Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3491228)]
+
+- **[SparseShift-GCN]** SparseShift-GCN: High precision skeleton-based action recognition(**Pattern Recognit. Lett. 2022**) [[paper](https://doi.org/10.1016/j.patrec.2021.12.005)]
+
+- **[FR-AGCN]** Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition(**Neurocomputing 2022**) [[paper](https://doi.org/10.1016/j.neucom.2021.12.054)] [[Github](https://github.com/Nanasaki-Ai/FR-AGCN)] ![](https://img.shields.io/github/stars/Nanasaki-Ai/FR-AGCN.svg?style=social)
+
+- **[ED-GCN]** Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition(**Comput. Vis. Image Underst. 2022**) [[paper](https://doi.org/10.1016/j.cviu.2021.103348)]
 
 
-- **[CTR-GCN]** Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition (**ICCV**) [[paper](https://arxiv.org/pdf/2107.12213.pdf)] [[Github](https://github.com/Uason-Chen/CTR-GCN)] ![](https://img.shields.io/github/stars/Uason-Chen/CTR-GCN.svg?style=social)
+### 2021 (Action Recognition)
+- Quo Vadis, Skeleton Action Recognition ? (**IJCV 2021**) [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] ![](https://img.shields.io/github/stars/skelemoa/quovadis.svg?style=social)
+
+
+- **[CTR-GCN]** Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition (**ICCV 2021**) [[paper](https://arxiv.org/pdf/2107.12213.pdf)] [[Github](https://github.com/Uason-Chen/CTR-GCN)] ![](https://img.shields.io/github/stars/Uason-Chen/CTR-GCN.svg?style=social)
 
  - Spatio-Temporal Difference Descriptor for Skeleton-Based Action Recognition
- (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16210)]
+ (**AAAI 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16210)]
 
-- **[AdaSGN]** AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition (**ICCV**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01316)] [[Github](https://github.com/lshiwjx/AdaSGN)] ![](https://img.shields.io/github/stars/lshiwjx/AdaSGN.svg?style=social)
+- **[AdaSGN]** AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition (**ICCV 2021**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01316)] [[Github](https://github.com/lshiwjx/AdaSGN)] ![](https://img.shields.io/github/stars/lshiwjx/AdaSGN.svg?style=social)
   
-- Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity (**ICCV**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01308
+- Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity (**ICCV 2021**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01308
 )]
 
-- Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning (**ICCV**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01317)]
+- Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning (**ICCV 2021**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01317)]
 
-- 3D Human Action Representation Learning via Cross-View Consistency Pursuit (**CVPR**) [[arxiv](https://arxiv.org/pdf/2104.14466.pdf)][[Github](https://github.com/LinguoLi/CrosSCLR)] ![](https://img.shields.io/github/stars/LinguoLi/CrosSCLR.svg?style=social)
+- 3D Human Action Representation Learning via Cross-View Consistency Pursuit (**CVPR 2021**) [[arxiv](https://arxiv.org/pdf/2104.14466.pdf)][[Github](https://github.com/LinguoLi/CrosSCLR)] ![](https://img.shields.io/github/stars/LinguoLi/CrosSCLR.svg?style=social)
 
-- **[MST-GCN]** Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16197)] [[Github](https://github.com/czhaneva/MST-GCN)] ![](https://img.shields.io/github/stars/czhaneva/MST-GCN.svg?style=social)
-
-
-- Learning Multi-Granular Spatio-Temporal Graph Network for Skeleton-based Action Recognition (**ACMMM**) [[paper](https://doi.org/10.1145/3474085.3475574)] [[Github](https://github.com/tailin1009/DualHead-Network)] ![](https://img.shields.io/github/stars/tailin1009/DualHead-Network.svg?style=social) (Not uploaded)
-
--  Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning (**ACMMM**) [[paper](https://doi.org/10.1145/3474085.3475248)]
-
-- Skeleton-Contrastive 3D Action Representation Learning (**ACMMM**) [[paper](https://doi.org/10.1109/TMM.2020.2974323)] [[Github](https://github.com/fmthoker/skeleton-contrast)] ![](https://img.shields.io/github/stars/fmthoker/skeleton-contrast.svg?style=social) (Not uploaded)
-
-- **[STST]** STST: Spatial-Temporal Specialized Transformer for Skeleton-based Action Recognition (**ACMMM**) [[paper](https://doi.org/10.1145/3474085.3475473)] [[Github](https://github.com/HanzoZY/STST)] ![](https://img.shields.io/github/stars/HanzoZY/STST.svg?style=social) (Not uploaded)
-
-- **[CP-STN]** Spatial Temporal Enhanced Contrastive and Pretext Learning for Skeleton-based Action Representation (**PMLR**) [[paper](https://proceedings.mlr.press/v157/zhan21a.html)]
+- **[MST-GCN]** Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition (**AAAI 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16197)] [[Github](https://github.com/czhaneva/MST-GCN)] ![](https://img.shields.io/github/stars/czhaneva/MST-GCN.svg?style=social)
 
 
+- Learning Multi-Granular Spatio-Temporal Graph Network for Skeleton-based Action Recognition (**ACMMM 2021**) [[paper](https://doi.org/10.1145/3474085.3475574)] [[Github](https://github.com/tailin1009/DualHead-Network)] ![](https://img.shields.io/github/stars/tailin1009/DualHead-Network.svg?style=social) (Not uploaded)
 
-- Tripool: Graph triplet pooling for 3D skeleton-based action recognition (**Pattern Recognit.**) [[paper](https://doi.org/10.1016/j.patcog.2021.107921)]
+-  Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning (**ACMMM 2021**) [[paper](https://doi.org/10.1145/3474085.3475248)]
+
+- Skeleton-Contrastive 3D Action Representation Learning (**ACMMM 2021**) [[paper](https://doi.org/10.1109/TMM.2020.2974323)] [[Github](https://github.com/fmthoker/skeleton-contrast)] ![](https://img.shields.io/github/stars/fmthoker/skeleton-contrast.svg?style=social) (Not uploaded)
+
+- **[STST]** STST: Spatial-Temporal Specialized Transformer for Skeleton-based Action Recognition (**ACMMM 2021**) [[paper](https://doi.org/10.1145/3474085.3475473)] [[Github](https://github.com/HanzoZY/STST)] ![](https://img.shields.io/github/stars/HanzoZY/STST.svg?style=social) (Not uploaded)
+
+- **[CP-STN]** Spatial Temporal Enhanced Contrastive and Pretext Learning for Skeleton-based Action Representation (**PMLR 2021**) [[paper](https://proceedings.mlr.press/v157/zhan21a.html)]
+
+
+
+- Tripool: Graph triplet pooling for 3D skeleton-based action recognition (**Pattern Recognit. 2021**) [[paper](https://doi.org/10.1016/j.patcog.2021.107921)]
   
-- Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition (**TIP**) [[paper](https://doi.org/10.1109/TIP.2021.3056895)] [[Github](https://github.com/xiaochehe/SKD)] ![](https://img.shields.io/github/stars/xiaochehe/SKD.svg?style=social)
+- Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition (**TIP 2021**) [[paper](https://doi.org/10.1109/TIP.2021.3056895)] [[Github](https://github.com/xiaochehe/SKD)] ![](https://img.shields.io/github/stars/xiaochehe/SKD.svg?style=social)
 
-- **[ShiftGCN++]** Extremely Lightweight Skeleton-Based Action Recognition With ShiftGCN++ (**TIP**) [[paper](https://doi.org/10.1109/TIP.2021.3104182)] [[Github](https://github.com/kchengiva/Shift-GCN-plus)] ![](https://img.shields.io/github/stars/kchengiva/Shift-GCN-plus.svg?style=social)
+- **[ShiftGCN++]** Extremely Lightweight Skeleton-Based Action Recognition With ShiftGCN++ (**TIP 2021**) [[paper](https://doi.org/10.1109/TIP.2021.3104182)] [[Github](https://github.com/kchengiva/Shift-GCN-plus)] ![](https://img.shields.io/github/stars/kchengiva/Shift-GCN-plus.svg?style=social)
 
-- **[Hyper-GNN]** Hypergraph Neural Network for Skeleton-Based Action Recognition (**TIP**) [[paper](https://doi.org/10.1109/TIP.2021.3051495)]
+- **[Hyper-GNN]** Hypergraph Neural Network for Skeleton-Based Action Recognition (**TIP 2021**) [[paper](https://doi.org/10.1109/TIP.2021.3051495)]
 
-- **[GCN-HCRF]** A Multi-Stream Graph Convolutional Networks-Hidden Conditional Random Field Model for Skeleton-Based Action Recognition (**TMM**) [[paper](https://doi.org/10.1109/TMM.2020.2974323)]
+- **[GCN-HCRF]** A Multi-Stream Graph Convolutional Networks-Hidden Conditional Random Field Model for Skeleton-Based Action Recognition (**TMM 2021**) [[paper](https://doi.org/10.1109/TMM.2020.2974323)]
 
-- Hierarchical Soft Quantization for Skeleton-Based Human Action Recognition (**TMM**) [[paper](https://doi.org/10.1109/TMM.2020.2990082)]
+- Hierarchical Soft Quantization for Skeleton-Based Human Action Recognition (**TMM 2021**) [[paper](https://doi.org/10.1109/TMM.2020.2990082)]
 
-- Pose Refinement Graph Convolutional Network for Skeleton-Based Action Recognition (**{IEEE} Robotics Autom. Lett.**) [[paper](https://doi.org/10.1109/LRA.2021.3056361)] [[Github](https://github.com/sj-li/PR-GCN)] ![](https://img.shields.io/github/stars/sj-li/PR-GCN.svg?style=social)
+- Pose Refinement Graph Convolutional Network for Skeleton-Based Action Recognition (**{IEEE} Robotics Autom. Lett. 2021**) [[paper](https://doi.org/10.1109/LRA.2021.3056361)] [[Github](https://github.com/sj-li/PR-GCN)] ![](https://img.shields.io/github/stars/sj-li/PR-GCN.svg?style=social)
 
-- **[FDGCN]** Skeleton-Based Action Recognition With Focusing-Diffusion Graph Convolutional Networks (**IEEE Signal Process. Lett.**) [[paper](https://doi.org/10.1109/LSP.2021.3116513)]
+- **[FDGCN]** Skeleton-Based Action Recognition With Focusing-Diffusion Graph Convolutional Networks (**IEEE Signal Process. Lett. 2021**) [[paper](https://doi.org/10.1109/LSP.2021.3116513)]
 
-- **[ST-GDN]** Spatial Temporal Graph Deconvolutional Network for Skeleton-Based Human Action Recognition (**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
+- **[ST-GDN]** Spatial Temporal Graph Deconvolutional Network for Skeleton-Based Human Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2021**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
 
-- Fuzzy Integral-Based {CNN} Classifier Fusion for 3D Skeleton Action Recognition (**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://doi.org/10.1109/TCSVT.2020.3019293
+- Fuzzy Integral-Based {CNN} Classifier Fusion for 3D Skeleton Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2021**) [[paper](https://doi.org/10.1109/TCSVT.2020.3019293
 )] [[Github](https://github.com/theavicaster/fuzzy-integral-cnn-fusion-3d-har)] ![](https://img.shields.io/github/stars/theavicaster/fuzzy-integral-cnn-fusion-3d-har.svg?style=social)
 
-- **[SEFN]** Symmetrical Enhanced Fusion Network for Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://doi.org/10.1109/TCSVT.2021.3050807)]
+- **[SEFN]** Symmetrical Enhanced Fusion Network for Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2021**) [[paper](https://doi.org/10.1109/TCSVT.2021.3050807)]
 
-- **[RA-GCN]** Richly Activated Graph Convolutional Network for Robust Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol.**) [[paper](https://doi.org/10.1109/TCSVT.2020.3015051)] [[Github](https://github.com/amira-mira/RA-GCNv22)] ![](https://img.shields.io/github/stars/amira-mira/RA-GCNv22.svg?style=social)
+- **[RA-GCN]** Richly Activated Graph Convolutional Network for Robust Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2021**) [[paper](https://doi.org/10.1109/TCSVT.2020.3015051)] [[Github](https://github.com/amira-mira/RA-GCNv22)] ![](https://img.shields.io/github/stars/amira-mira/RA-GCNv22.svg?style=social)
 
-- Dual-Stream Structured Graph Convolution Network for Skeleton-Based Action Recognition (**ACM Trans. Multim. Comput. Commun. Appl.**) [[paper](https://doi.org/10.1145/3450410)]
+- Dual-Stream Structured Graph Convolution Network for Skeleton-Based Action Recognition (**ACM Trans. Multim. Comput. Commun. Appl. 2021**) [[paper](https://doi.org/10.1145/3450410)]
 
-- Action recognition using kinematics posture feature on 3D skeleton joint locations (**Pattern Recognit. Lett.**) [[paper](https://doi.org/10.1016/j.patrec.2021.02.013)]
+- Action recognition using kinematics posture feature on 3D skeleton joint locations (**Pattern Recognit. Lett. 2021**) [[paper](https://doi.org/10.1016/j.patrec.2021.02.013)]
   
-- Scene image and human skeleton-based dual-stream human action recognition (**Pattern Recognit. Lett.**) [[paper](https://doi.org/10.1016/j.patrec.2021.06.003)]
+- Scene image and human skeleton-based dual-stream human action recognition (**Pattern Recognit. Lett. 2021**) [[paper](https://doi.org/10.1016/j.patrec.2021.06.003)]
 
-- Skeleton-based action recognition using sparse spatio-temporal GCN with edge effective resistance (**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2020.10.096)]
+- Skeleton-based action recognition using sparse spatio-temporal GCN with edge effective resistance (**Neurocomputing 2021**) [[paper](https://doi.org/10.1016/j.neucom.2020.10.096)]
 
-- **[VE-GCN]** Integrating vertex and edge features with Graph Convolutional Networks for skeleton-based action recognition (**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2021.09.034)]
+- **[VE-GCN]** Integrating vertex and edge features with Graph Convolutional Networks for skeleton-based action recognition (**Neurocomputing 2021**) [[paper](https://doi.org/10.1016/j.neucom.2021.09.034)]
 
-- **[AMV-GCNs]** Adaptive multi-view graph convolutional networks for skeleton-based action recognition (**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2020.03.126)]
+- **[AMV-GCNs]** Adaptive multi-view graph convolutional networks for skeleton-based action recognition (**Neurocomputing 2021**) [[paper](https://doi.org/10.1016/j.neucom.2020.03.126)]
 
-- Rethinking the ST-GCNs for 3D skeleton-based human action recognition (**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2021.05.004)] [[Github](https://github.com/apenbol/ST-GGN)] ![](https://img.shields.io/github/stars/apenbol/ST-GGN.svg?style=social)
+- Rethinking the ST-GCNs for 3D skeleton-based human action recognition (**Neurocomputing 2021**) [[paper](https://doi.org/10.1016/j.neucom.2021.05.004)] [[Github](https://github.com/apenbol/ST-GGN)] ![](https://img.shields.io/github/stars/apenbol/ST-GGN.svg?style=social)
 
-- **[AAM-GCN]** Attention adjacency matrix based graph convolutional networks for skeleton-based action recognition (**Neurocomputing**) [[paper](https://doi.org/10.1016/j.neucom.2021.02.001)]
+- **[AAM-GCN]** Attention adjacency matrix based graph convolutional networks for skeleton-based action recognition (**Neurocomputing 2021**) [[paper](https://doi.org/10.1016/j.neucom.2021.02.001)]
 
-- **[ST-TR]** Skeleton-based action recognition via spatial and temporal transformer networks (**Comput. Vis. Image Underst.**) [[paper](https://doi.org/10.1016/j.cviu.2021.103219)] [[Github](https://github.com/Anuj040/ST-TR)] ![](https://img.shields.io/github/stars/Anuj040/ST-TR.svg?style=social)
+- **[ST-TR]** Skeleton-based action recognition via spatial and temporal transformer networks (**Comput. Vis. Image Underst. 2021**) [[paper](https://doi.org/10.1016/j.cviu.2021.103219)] [[Github](https://github.com/Anuj040/ST-TR)] ![](https://img.shields.io/github/stars/Anuj040/ST-TR.svg?style=social)
 
-- **[AS-CAL]** Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition (**Inf. Sci.**) [[paper](https://doi.org/10.1016/j.ins.2021.04.023)] [[Github](https://github.com/LZU-SIAT/AS-CAL)] ![](https://img.shields.io/github/stars/LZU-SIAT/AS-CAL.svg?style=social)
+- **[AS-CAL]** Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition (**Inf. Sci. 2021**) [[paper](https://doi.org/10.1016/j.ins.2021.04.023)] [[Github](https://github.com/LZU-SIAT/AS-CAL)] ![](https://img.shields.io/github/stars/LZU-SIAT/AS-CAL.svg?style=social)
 
 
-### 2020 (Mainly from Niais [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
+### 2020 (Action Recognition) (Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
 
 - **[MV-IGNET]** Learning Multi-View Interactional Skeleton Graph for Action Recognition (**TPAMI 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)][[Github](https://github.com/niais/mv-ignet)] ![](https://img.shields.io/github/stars/niais/mv-ignet.svg?style=social)
 - **[MS-AAGCN]** Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks (**TIP 2020**) [[paper](https://arxiv.org/pdf/1912.06971.pdf)]
@@ -302,7 +302,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - **[ST-TR-AGCN]** Spatial Temporal Transformer Network for Skeleton-based Action Recognition (**Under submission at Computer Vision and Image Understanding (CVIU)**) [[arxiv](https://arxiv.org/pdf/2008.07404.pdf)] [[Github](https://github.com/Chiaraplizz/ST-TR)] ![](https://img.shields.io/github/stars/Chiaraplizz/ST-TR.svg?style=social)
 - **[PCRP]** Prototypical Contrast and Reverse Prediction: Unsupervised Skeleton Based Action Recognition [[arxiv](https://arxiv.org/pdf/2011.07236.pdf)] [[Github](https://github.com/Mikexu007/PCRP)] ![](https://img.shields.io/github/stars/Mikexu007/PCRP.svg?style=social)
 
-### 2019
+### 2019 (Action Recognition)
 
 - NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
 - **[VA-NN]** View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition (**TPAMI 2019**) [[arxiv](https://arxiv.org/pdf/1804.07453.pdf)] [[Github](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)] ![](https://img.shields.io/github/stars/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition.svg?style=social)
@@ -318,7 +318,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - **[TSRJI]** Skeleton Image Representation for 3D Action Recognition based on Tree Structure and Reference Joints (**SIBGRAPI**) [[arxiv](https://arxiv.org/pdf/1909.05704v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)] ![](https://img.shields.io/github/stars/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI.svg?style=social)
 - **[SkeleMotion]** SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition (**AVSS**) [[arxiv](https://arxiv.org/pdf/1907.13025v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)] ![](https://img.shields.io/github/stars/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI.svg?style=social)
 
-### 2018
+### 2018 (Action Recognition)
 
 - **Beyond Joints:** Learning Representations from Primitive Geometries for Skeleton-based Action Recognition and Detection (***TIP 2018***) [[paper](https://ieeexplore.ieee.org/document/8360391)] [[Github](https://github.com/hongsong-wang/Beyond-Joints)] ![](https://img.shields.io/github/stars/hongsong-wang/Beyond-Joints.svg?style=social)
 - **[DPRL]** Deep progressive reinforcement learning for skeleton-based action recognition (**CVPR 2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
@@ -334,7 +334,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - Unsupervised feature learning of human actions as trajectories in pose embedding manifold (**WACV 2018**) [[arxiv](https://arxiv.org/abs/1812.02592)]
 
 
-### 2017
+### 2017 (Action Recognition)
 
 - Jointly learning heterogeneous features for RGB-D activity recognition (***TPAMI 2017***) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)]
 - **[Visualization CNN]** Enhanced skeleton visualization for view invariant human action recognition (***Pattern Recognition 2017***) [[paper](https://www.utdallas.edu/~cxc123730/PR_2017.pdf)]
@@ -350,7 +350,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - PKU-MMD: A large scale benchmark for continuous multi-modal human action understanding (*ACMMM Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1703.07475.pdf)]
 - **[Temporal Conv]** Interpretable 3d human action analysis with temporal convolutional networks (*CVPR Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1704.04516.pdf)]
 
-### before 2017
+### before 2017 (Action Recognition)
 
 - **[Trust Gate ST-LSTM]** Spatio-temporal lstm with trust gates for 3d human action recognition (**ECCV 2016**) [[arxiv](https://arxiv.org/pdf/1607.07043.pdf)] [[Github](https://github.com/kinect59/Spatio-Temporal-LSTM)] ![](https://img.shields.io/github/stars/kinect59/Spatio-Temporal-LSTM.svg?style=social)
 - **[Part-aware LSTM]** NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (**CVPR 2016**) [[arxiv](https://arxiv.org/pdf/1604.02808.pdf)]
@@ -363,7 +363,7 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 - Human action recognition using a temporal hierarchy of covariance descriptors on 3d joint locations (**IJCAI 2013**) [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8032&rep=rep1&type=pdf)]
 
 
-### arXiv papers
+### arXiv papers (Action Recognition)
 
 - Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)] ![](https://img.shields.io/github/stars/raphaelmemmesheimer/skeleton-dml.svg?style=social) (Accepted at **WACV 2022**)
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
@@ -442,4 +442,3 @@ Overview of available datasets (2004-2022) for action recognition and their stat
 | 2020 | PA-ResGCN-B19                       |     87.3      |    88.3     |
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
 | 2021 | CTR-GCN                             |     88.9      |    90.6     |
-
