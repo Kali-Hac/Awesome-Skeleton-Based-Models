@@ -22,15 +22,15 @@ Overview of available datasets for **skeleton-based person re-identification** a
 ```
 Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMVLP-Pose estimate 3D skeletons and 2D skeletons, respectively, from RGB images.
 ```
-| # Datasets           |   Year   |    # ID | # Skeleton |         # View | # Clothes/Scenes               |
-|----------------------|:--------:|--------:|-----------:|---------------:|--------------------------------|
-| **IAS-Lab RGBD-ID**  | **2013** |  **11** |  **89.0K** | **Egocentric** | **Varying Clothes and Scenes** |
-| **BIWI RGBD-ID**     | **2013** |  **50** | **205.8K** | **Egocentric** | **Varying Clothes and Scenes** |
-| **KGBD**             | **2014** | **164** | **188.7K** | **Egocentric** | **——**                         |
-| **KS20**             | **2017** |  **20** |  **36.0K** |          **5** | **——**                         |
-| # Estimated Datasets |          |         |            |                |                                |
-| **CAISA-B (3D)**         | **2005** | **124** | **706.5K** |         **11** | **Varying Clothes**            |
-| OUMVLP-Pose (2D)         |   2020   |  10,307 |     6,667K |             14 | ——                             |
+| **# Datasets**           | **Year** | **# ID** | **# Skeleton** |     **# View** | **# Clothes/Scenes**           |
+|--------------------------|:--------:|---------:|---------------:|---------------:|--------------------------------|
+| **IAS-Lab RGBD-ID**      | **2013** |   **11** |      **89.0K** | **Egocentric** | **Varying Clothes and Scenes** |
+| **BIWI RGBD-ID**         | **2013** |   **50** |     **205.8K** | **Egocentric** | **Varying Clothes and Scenes** |
+| **KGBD**                 | **2014** |  **164** |     **188.7K** | **Egocentric** | **——**                         |
+| **KS20**                 | **2017** |   **20** |      **36.0K** |          **5** | **——**                         |
+| **# Estimated Datasets** |          |          |                |                |                                |
+| **CAISA-B (3D)**         | **2005** |  **124** |     **706.5K** |         **11** | **Varying Clothes**            |
+| OUMVLP-Pose (2D)         |   2020   |   10,307 |         6,667K |             14 | ——                             |
 
 
 ### 2022 (S-reID)
