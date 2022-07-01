@@ -15,10 +15,10 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
 
 ## Contents <!-- omit in toc -->
 
- * [1. Skeleton Tracking](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking)
+ * [**0. Skeleton Tracking**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking)
    * [Microsoft Kinect](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#microsoft-kinect)
    * [Other Tracking Devices](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#other-tracking-devices)
- * [2. Skeleton-Based Action Recognition](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
+ * [**1. Skeleton-Based Action Recognition**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**70** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#popular-datasets)
    * [Action Recognition Survey](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#action-recognition-survey)
    * [**2022** (15+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2022-action-recognition)
@@ -35,7 +35,7 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
 
 
 
- * [3. 3D Pose Estimation (**Papers & Codes**)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation)
+ * [**2. 3D Pose Estimation**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation)
    * [**13** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#datasets)
    * [**2022** (10+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2022-3d-pose-estimationn)
    * [**2021** (40+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2021-3d-pose-estimation)
@@ -48,7 +48,7 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
    * [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#leaderboards-3d-pose-estimation)
  
 
-- [4. Skeleton-Based Person Re-Identification (**Papers & Codes**)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#skeleton-based-person-re-identification-s-reid)
+- [**3. Skeleton-Based Person Re-Identification**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#skeleton-based-person-re-identification-s-reid)
   - [**6** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#datasets)
   - [**2022** (1 paper & code)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2022-s-reid)
   - [**2021** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid)
@@ -56,7 +56,7 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [**2019** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
   - [Before 2019 (4 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid)
   - [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards)
-- [5. Acknowledge](#acknowledge)
+- [**Acknowledge**](#acknowledge)
 
 
 
