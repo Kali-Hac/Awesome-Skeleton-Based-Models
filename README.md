@@ -19,7 +19,7 @@ We collect existing **(3D) skeleton-based models** of *all categaories* publishe
    * [1.1 Microsoft Kinect](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#microsoft-kinect)
    * [1.2 Other Tracking Devices](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#other-tracking-devices)
  * [2. Skeleton-Based Action Recognition](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
-   * [2.1 Popular Datasets (Totally 70)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#popular-datasets)
+   * [2.1 Datasets (Totally 70)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#popular-datasets)
    * [2.2 Action Recognition Survey](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#action-recognition-survey)
    * [2.3 Papers/Models in 2022 (Currently 15+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2022-action-recognition)
    * [2.4 Papers/Models in 2021 (Totally 35+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2021-action-recognition)
