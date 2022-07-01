@@ -1,5 +1,12 @@
-# Awesome-Skeleton-Based-Models <!-- omit in toc --> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/graphs/commit-activity)
+![](https://img.shields.io/github/license/Kali-Hac/Awesome-Skeleton-Based-Models)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Kali-Hac/Awesome-Skeleton-Based-Models?color=green&style=plastic)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/network/members)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Kali-Hac/Awesome-Skeleton-Based-Models?color=green&style=plastic)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/network/members)
 
+
+
+# Awesome-Skeleton-Based-Models <!-- omit in toc --> 
 We collect existing **skeleton-based models (papers & codes)** published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, IJCV, TIP, TMM, TNNLS, PMLR, Pattern Recognition, etc*).
 
 
