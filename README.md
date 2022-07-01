@@ -7,7 +7,7 @@
 
 
 # Awesome-Skeleton-Based-Models <!-- omit in toc --> 
-We collect existing **skeleton-based models (papers & codes)** published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, IJCV, TIP, TMM, TNNLS, PMLR, Pattern Recognition, etc*).
+We collect existing **skeleton-based models (papers & codes)** published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, IJCV, TIP, TMM, TNNLS, PMLR, etc*).
 
 
 ## TODO <!-- omit in toc -->
