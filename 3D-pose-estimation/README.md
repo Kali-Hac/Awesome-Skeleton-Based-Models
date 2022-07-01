@@ -1,5 +1,26 @@
-## 3D Pose Estimation
-### Datasets
+<!-- vscode-markdown-toc -->
+- [3D Pose Estimation](#3d-pose-estimation)
+  - [Datasets](#datasets)
+  - [2022 (3D Pose Estimation)](#2022-3d-pose-estimation)
+  - [2021 (3D Pose Estimation)](#2021-3d-pose-estimation)
+  - [2020 (3D Pose Estimation)](#2020-3d-pose-estimation)
+  - [2019 (3D Pose Estimation)](#2019-3d-pose-estimation)
+  - [2018 (3D Pose Estimation)](#2018-3d-pose-estimation)
+  - [2017 (3D Pose Estimation)](#2017-3d-pose-estimation)
+  - [Before 2017 (3D Pose Estimation)](#before-2017-3d-pose-estimation)
+  - [Real-Time 3D Pose Estimation](#real-time-3d-pose-estimation)
+  - [Leaderboards (3D Pose Estimation)](#leaderboards-3d-pose-estimation)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+
+##  3D Pose Estimation
+###  Datasets
 Overview of available datasets for **3D pose estimation** and their statistics, provided by the paper of (**Comput. Vis. Image Underst. 2021**) [[paper](https://www.sciencedirect.com/science/article/pii/S1077314221000692)] (Deep 3D human pose estimation: A review). 
 ```
 Bold shows the most-frequently used datasets in the literature.
@@ -170,8 +191,7 @@ Bold shows the most-frequently used datasets in the literature.
   
 - [Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation](https://arxiv.org/abs/2004.02186) (CVPR 2020)
   
-- [Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision
-](https://arxiv.org/abs/2004.03989) (Arxiv 2020) [[Github](https://github.com/vegesm/wdspose)] ![](https://img.shields.io/github/stars/vegesm/wdspose.svg?style=social)
+- [Multi-Person Absolute 3D Human Pose Estimation with Weak Depth Supervision](https://arxiv.org/abs/2004.03989) (Arxiv 2020) [[Github](https://github.com/vegesm/wdspose)] ![](https://img.shields.io/github/stars/vegesm/wdspose.svg?style=social)
 
 - [Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/abs/2004.03686) (Arxiv 2020)
   
@@ -193,8 +213,7 @@ Bold shows the most-frequently used datasets in the literature.
   
 - [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/abs/1908.05293) (CVPR 2020)
   
-- [Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction
-](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html) (CVPR 2020) [[Github](https://github.com/lrxjason/Attention3DHumanPose)] ![](https://img.shields.io/github/stars/lrxjason/Attention3DHumanPose.svg?style=social)
+- [Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.html) (CVPR 2020) [[Github](https://github.com/lrxjason/Attention3DHumanPose)] ![](https://img.shields.io/github/stars/lrxjason/Attention3DHumanPose.svg?style=social)
 
 - [Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.html)
  (CVPR 2020)
