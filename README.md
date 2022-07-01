@@ -9,9 +9,9 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [x] Skeleton-Based Action Recognition
   - [x] 3D Pose Estimation
   - [x] Skeleton-Based Person Re-Identification *(New!)*
-  - [ ] Gesture Recognition
-  - [ ] Gait Recognition
-  - [ ] Others (Motion Prediction, Interaction Recognition, etc)
+  - [ ] Skeleton-Based Gesture Recognition
+  - [ ] Skeleton-Based Gait Recognition
+  - [ ] Others (Skeleton-Based Motion Prediction, Interaction Recognition, etc)
 
 ## Contents <!-- omit in toc -->
 
@@ -71,6 +71,6 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [5.7 Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards) -->
 
 ## Acknowledge
-If you have any problems, suggestions or improvements, please feel free to contact me (haocong001@ntu.edu.sg). Welcome to refine current taxonomy, enrich the collection of skeleton-based models, and share your valuable ideas.
+If you have any problems, suggestions or improvements, please feel free to contact me (haocongrao@gmail.com). Welcome to refine current taxonomy, enrich collection of skeleton-based models, and discuss any constructive ideas.
 
 
