@@ -28,8 +28,8 @@
 ###  Popular Datasets
 - *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton)] ![](https://img.shields.io/github/stars/open-mmlab/mmaction2.svg?style=social)
 - *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)] ![](https://img.shields.io/github/stars/skelemoa/ntu-x.svg?style=social)
-- *(2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
-- NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
+- *(2019)* **NTU RGB+D 120 Dataset** [[Homepage](https://rose1.ntu.edu.sg/dataset/actionRecognition/),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
+- NTU RGB+D Dataset [[Homepage](https://rose1.ntu.edu.sg/dataset/actionRecognition/),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
 - (2018) VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)] ![](https://img.shields.io/github/stars/HRI-UESTC/CFM-HRI-RGB-D-action-database.svg?style=social)
 - (2017) SYSU 3D Human-Object Interaction Dataset (**SYSU**)
 - (2015) UWA3D Multiview Activity II Dataset (**UWA3D**) [[download](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)]
@@ -82,7 +82,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 |  **34**  | [**M^{2}I**](https://pubmed.ncbi.nlm.nih.gov/27429453/)           | **2015** |        **RGB,S,D** |      **22** |        **22** |    **~1800** |              **2** |
 |    35    | [Charades](http://vuchallenge.org/charades.html)               |     2016 |                RGB |         157 |           267 |        9,848 |                  — |
 |    36    | InfAR                  |     2016 |                 IR |          12 |            40 |          600 |                  2 |
-|  **37**  | [**NTU RGB+D**](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)          | **2016** |     **RGB,S,D,IR** |      **60** |        **40** |   **56,880** |             **80** |
+|  **37**  | [**NTU RGB+D**](https://rose1.ntu.edu.sg/dataset/actionRecognition/)          | **2016** |     **RGB,S,D,IR** |      **60** |        **40** |   **56,880** |             **80** |
 |    38    | [YouTube-8M](https://research.google.com/youtube8m/)             |     2016 |                RGB |       4,800 |             — |    8,264,650 |                  — |
 |    39    | [AVA](http://research.google.com/ava/)                    |     2017 |                RGB |          80 |             — |          437 |                  — |
 |    40    | DvsGesture             |     2017 |                 ES |          17 |            29 |            — |                  — |
@@ -103,7 +103,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 |    55    | [MMAct](https://mmact19.github.io/2019/)                  |     2019 |  RGB,S,Ac,Gyr,etc. |          37 |            20 |       36,764 |       4+Egocentric |
 |    56    | [Moments in Time](http://moments.csail.mit.edu/)        |     2019 |                RGB |         339 |             — |   ~1,000,000 |                  — |
 |    57    | Wang *et al.*            |     2019 |           WiFi CSI |           6 |             1 |        1,394 |                  — |
-|  **58**  | [**NTU RGB+D 120**](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp)      | **2019** |     **RGB,S,D,IR** |     **120** |       **106** |  **114,480** |            **155** |
+|  **58**  | [**NTU RGB+D 120**](https://rose1.ntu.edu.sg/dataset/actionRecognition/)      | **2019** |     **RGB,S,D,IR** |     **120** |       **106** |  **114,480** |            **155** |
 |    59    | ETRI-Activity3D        |     2020 |            RGB,S,D |          55 |           100 |      112,620 |                  — |
 |    60    | EV-Action              |     2020 |        RGB,S,D,EMG |          20 |            70 |        7,000 |                  9 |
 |    61    | [IKEA ASM](https://ikeaasm.github.io/)               |     2020 |            RGB,S,D |          33 |            48 |       16,764 |                  3 |
