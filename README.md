@@ -56,7 +56,6 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [**2019** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
   - [Before 2019 (4 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid)
   - [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards)
-- [**Acknowledge**](#acknowledge)
 
 
 
@@ -72,9 +71,6 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [5.7 Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards) -->
 
 ## Acknowledge
+If you have any problems, suggestions or improvements, please feel free to contact me (haocong001@ntu.edu.sg). Welcome to refine current taxonomy, enrich the collection of skeleton-based models, and share your valuable ideas.
 
-Thanks for the awesome repositories from [Niais](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition), [Wangzheallen](https://github.com/wangzheallen/awesome-human-pose-estimation), [wangyongjie-ntu](https://github.com/wangyongjie-ntu/Awesome-explainable-AI), etc. 
 
-I will appreacite much if you help re-organize and refine current taxonomy (e.g., add more papers related to skeletons) and archive uncategoried papers or anything to enrich this repository. 
-
-If you have any problems, suggestions or improvements, please feel free to contact me (haocong001@ntu.edu.sg). Welcome to discuss together.
