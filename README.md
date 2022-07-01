@@ -36,16 +36,16 @@ We collect existing **(3D) skeleton-based models** of *all categaories* publishe
 
 
  * [3. 3D Pose Estimation](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation)
-   * [2.1 Datasets (Totally 13)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#datasets)
-   * [2.2 Papers/Models in 2022 (Currently 10+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2022-3d-pose-recognition)
-   * [2.3 Papers/Models in 2021 (Totally 40+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2021-3d-pose-recognition)
-   * [2.4 Papers/Models in 2020 (Totally 35+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2020-3d-pose-recognition)
-   * [2.5 Papers/Models in 2019 (Totally 60+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2019-3d-pose-recognition)
-   * [2.6 Papers/Models in 2018 (Totally 25+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2018-3d-pose-recognition)
-   * [2.7 Papers/Models in 2017 (Totally 15+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2017-3d-pose-recognition)
-   * [2.8 Papers/Models Before 2017](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#before-2017-3d-pose-recognition)
-   * [2.9 Real-Time 3D Pose Estimation](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#real-time-3d-pose-estimation)
-   * [2.10 Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#leaderboards-3d-pose-estimation)
+   * [3.1 Datasets (Totally 13)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#datasets)
+   * [3.2 Papers/Models in 2022 (Currently 10+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2022-3d-pose-recognition)
+   * [3.3 Papers/Models in 2021 (Totally 40+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2021-3d-pose-recognition)
+   * [3.4 Papers/Models in 2020 (Totally 35+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2020-3d-pose-recognition)
+   * [3.5 Papers/Models in 2019 (Totally 60+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2019-3d-pose-recognition)
+   * [3.6 Papers/Models in 2018 (Totally 25+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2018-3d-pose-recognition)
+   * [3.7 Papers/Models in 2017 (Totally 15+)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2017-3d-pose-recognition)
+   * [3.8 Papers/Models Before 2017](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#before-2017-3d-pose-recognition)
+   * [3.9 Real-Time 3D Pose Estimation](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#real-time-3d-pose-estimation)
+   * [3.10 Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#leaderboards-3d-pose-estimation)
  
 
 - [4. Skeleton-Based Person Re-Identification](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#skeleton-based-person-re-identification-s-reid)
