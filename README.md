@@ -57,11 +57,11 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
 
 - [**3. Skeleton-Based Person Re-Identification**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#skeleton-based-person-re-identification-s-reid)
   - [**6** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#datasets)
-  - [**2022** (1 paper & code)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2022-s-reid)
-  - [**2021** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid)
-  - [**2020** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2020-s-reid)
-  - [**2019** (2 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
-  - [Before 2019 (4 papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid)
+  - [**2022**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2022-s-reid)
+  - [**2021**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid)
+  - [**2020**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2020-s-reid)
+  - [**2019**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
+  - [Before 2019](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid)
   - [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards)
 
 
