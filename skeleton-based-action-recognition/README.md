@@ -1,15 +1,17 @@
 <!-- vscode-markdown-toc -->
 - [Skeleton-Based Action Recognition](#skeleton-based-action-recognition)
-	- [Popular Datasets](#popular-datasets)
-	- [Action Recognition Survey](#action-recognition-survey)
-	- [2022 (Action Recognition)](#2022-action-recognition)
-	- [2021 (Action Recognition)](#2021-action-recognition)
-	- [2020 (Action Recognition)](#2020-action-recognition)
-	- [2019 (Action Recognition)](#2019-action-recognition)
-	- [2018 (Action Recognition)](#2018-action-recognition)
-	- [2017 (Action Recognition)](#2017-action-recognition)
-	- [Before 2017 (Action Recognition)](#before-2017-action-recognition)
-	- [arXiv papers (Action Recognition)](#arxiv-papers-action-recognition)
+	- [**70** Datasets](#70-datasets)
+		- [Popular & New](#popular--new)
+		- [Overview](#overview)
+	- [Survey Papers](#survey-papers)
+	- [**2022**](#2022)
+	- [**2021**](#2021)
+	- [**2020**](#2020)
+	- [**2019**](#2019)
+	- [**2018**](#2018)
+	- [**2017**](#2017)
+	- [Before 2017](#before-2017)
+	- [arXiv papers](#arxiv-papers)
 	- [Skeleton-based Action Recognition under Adversarial Attack](#skeleton-based-action-recognition-under-adversarial-attack)
 	- [Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets](#leaderboards-on-ntu-rgbd-and-ntu-rgbd-120-datasets)
 		- [NTU-RGB+D](#ntu-rgbd)
@@ -25,7 +27,8 @@
 
 
 ##  Skeleton-Based Action Recognition
-###  Popular Datasets
+###  **70** Datasets
+#### Popular & New
 - *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton)] ![](https://img.shields.io/github/stars/open-mmlab/mmaction2.svg?style=social)
 - *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)] ![](https://img.shields.io/github/stars/skelemoa/ntu-x.svg?style=social)
 - *(2019)* **NTU RGB+D 120 Dataset** [[Homepage](https://rose1.ntu.edu.sg/dataset/actionRecognition/),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
@@ -36,7 +39,8 @@
 - (2014) Northwestern-UCLA Dataset (**N-UCLA**) [[donwload](https://users.eecs.northwestern.edu/~jwa368/my_data.html)]
 <!-- - SBU Kinect Interaction Dataset (**SBU**) -->
 
-Overview of available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
+#### Overview
+Overview of **70** available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
 
 ```
 S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audio, Ac: Acceleration, Gyr: Gyroscope, EMG: Electromyography. Bold shows the most-frequently used datasets in the literature.
@@ -119,7 +123,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 
 
 
-###  Action Recognition Survey
+###  Survey Papers
 - Human Action Recognition and Prediction: A Survey Recognition Algorithms (**IJCV 2022**) [[paper](https://doi.org/10.1007/s11263-022-01594-9)]
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)]
@@ -127,7 +131,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
 
 
-### 2022 (Action Recognition)
+### **2022**
 - Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition (**TPAMI 2022**) [[paper](https://arxiv.org/pdf/2106.15125.pdf)] [[Github](https://github.com/yfsong0709/EfficientGCNv1)] ![](https://img.shields.io/github/stars/yfsong0709/EfficientGCNv1.svg?style=social) (Not uploaded) [[Gitee](https://gitee.com/yfsong0709/EfficientGCNv1)]
 
 - **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/document/9334430)] [[Github](https://github.com/LevelCA/Sym-GNN)] ![](https://img.shields.io/github/stars/LevelCA/Sym-GNN.svg?style=social) (Not uploaded)
@@ -160,14 +164,13 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - **[ED-GCN]** Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition (**Comput. Vis. Image Underst. 2022**) [[paper](https://doi.org/10.1016/j.cviu.2021.103348)]
 
 
-### 2021 (Action Recognition)
+### **2021**
 - Quo Vadis, Skeleton Action Recognition ? (**IJCV 2021**) [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] ![](https://img.shields.io/github/stars/skelemoa/quovadis.svg?style=social)
 
 
 - **[CTR-GCN]** Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition (**ICCV 2021**) [[paper](https://arxiv.org/pdf/2107.12213.pdf)] [[Github](https://github.com/Uason-Chen/CTR-GCN)] ![](https://img.shields.io/github/stars/Uason-Chen/CTR-GCN.svg?style=social)
 
- - Spatio-Temporal Difference Descriptor for Skeleton-Based Action Recognition
- (**AAAI 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16210)]
+ - Spatio-Temporal Difference Descriptor for Skeleton-Based Action Recognition (**AAAI 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16210)]
 
 - **[AdaSGN]** AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition (**ICCV 2021**) [[paper](https://doi.org/10.1109/ICCV48922.2021.01316)] [[Github](https://github.com/lshiwjx/AdaSGN)] ![](https://img.shields.io/github/stars/lshiwjx/AdaSGN.svg?style=social)
   
@@ -239,7 +242,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - **[AS-CAL]** Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition (**Inf. Sci. 2021**) [[paper](https://doi.org/10.1016/j.ins.2021.04.023)] [[Github](https://github.com/LZU-SIAT/AS-CAL)] ![](https://img.shields.io/github/stars/LZU-SIAT/AS-CAL.svg?style=social)
 
 
-### 2020 (Action Recognition) 
+### **2020**
 
 - (Mainly from [[Github](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)], adding latest status)
 
@@ -271,7 +274,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - **[ST-TR-AGCN]** Spatial Temporal Transformer Network for Skeleton-based Action Recognition (**Under submission at Computer Vision and Image Understanding (CVIU)**) [[arxiv](https://arxiv.org/pdf/2008.07404.pdf)] [[Github](https://github.com/Chiaraplizz/ST-TR)] ![](https://img.shields.io/github/stars/Chiaraplizz/ST-TR.svg?style=social)
 - **[PCRP]** Prototypical Contrast and Reverse Prediction: Unsupervised Skeleton Based Action Recognition [[arxiv](https://arxiv.org/pdf/2011.07236.pdf)] [[Github](https://github.com/Mikexu007/PCRP)] ![](https://img.shields.io/github/stars/Mikexu007/PCRP.svg?style=social)
 
-### 2019 (Action Recognition)
+### **2019**
 
 - NTU-RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding (***TPAMI 2019***) [[arxiv](https://arxiv.org/pdf/1905.04757.pdf)] [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp)] [[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
 - **[VA-NN]** View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition (**TPAMI 2019**) [[arxiv](https://arxiv.org/pdf/1804.07453.pdf)] [[Github](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)] ![](https://img.shields.io/github/stars/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition.svg?style=social)
@@ -287,7 +290,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - **[TSRJI]** Skeleton Image Representation for 3D Action Recognition based on Tree Structure and Reference Joints (**SIBGRAPI**) [[arxiv](https://arxiv.org/pdf/1909.05704v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)] ![](https://img.shields.io/github/stars/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI.svg?style=social)
 - **[SkeleMotion]** SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition (**AVSS**) [[arxiv](https://arxiv.org/pdf/1907.13025v1.pdf)] [[Github](https://github.com/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI)] ![](https://img.shields.io/github/stars/carloscaetano/skeleton-images#skeleton-images-representation-SkeleMotion-and-SRJI.svg?style=social)
 
-### 2018 (Action Recognition)
+### **2018**
 
 - **Beyond Joints:** Learning Representations from Primitive Geometries for Skeleton-based Action Recognition and Detection (***TIP 2018***) [[paper](https://ieeexplore.ieee.org/document/8360391)] [[Github](https://github.com/hongsong-wang/Beyond-Joints)] ![](https://img.shields.io/github/stars/hongsong-wang/Beyond-Joints.svg?style=social)
 - **[DPRL]** Deep progressive reinforcement learning for skeleton-based action recognition (**CVPR 2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
@@ -303,7 +306,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - Unsupervised feature learning of human actions as trajectories in pose embedding manifold (**WACV 2018**) [[arxiv](https://arxiv.org/abs/1812.02592)]
 
 
-### 2017 (Action Recognition)
+### **2017**
 
 - Jointly learning heterogeneous features for RGB-D activity recognition (***TPAMI 2017***) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)]
 - **[Visualization CNN]** Enhanced skeleton visualization for view invariant human action recognition (***Pattern Recognition 2017***) [[paper](https://www.utdallas.edu/~cxc123730/PR_2017.pdf)]
@@ -319,7 +322,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - PKU-MMD: A large scale benchmark for continuous multi-modal human action understanding (*ACMMM Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1703.07475.pdf)]
 - **[Temporal Conv]** Interpretable 3d human action analysis with temporal convolutional networks (*CVPR Workshop 2017*) [[arxiv](https://arxiv.org/pdf/1704.04516.pdf)]
 
-### Before 2017 (Action Recognition)
+### Before 2017
 
 - **[Trust Gate ST-LSTM]** Spatio-temporal lstm with trust gates for 3d human action recognition (**ECCV 2016**) [[arxiv](https://arxiv.org/pdf/1607.07043.pdf)] [[Github](https://github.com/kinect59/Spatio-Temporal-LSTM)] ![](https://img.shields.io/github/stars/kinect59/Spatio-Temporal-LSTM.svg?style=social)
 - **[Part-aware LSTM]** NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (**CVPR 2016**) [[arxiv](https://arxiv.org/pdf/1604.02808.pdf)]
@@ -332,7 +335,7 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 - Human action recognition using a temporal hierarchy of covariance descriptors on 3d joint locations (**IJCAI 2013**) [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8032&rep=rep1&type=pdf)]
 
 
-### arXiv papers (Action Recognition)
+### arXiv papers
 
 - Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[arxiv](https://arxiv.org/abs/2012.13823)][[Github](https://github.com/raphaelmemmesheimer/skeleton-dml)] ![](https://img.shields.io/github/stars/raphaelmemmesheimer/skeleton-dml.svg?style=social) (Accepted at **WACV 2022**)
 - Sparse Semi-Supervised Action Recognition with Active Learning [[arxiv](https://arxiv.org/abs/2012.01740#:~:text=Sparse%20Semi%2DSupervised%20Action%20Recognition%20with%20Active%20Learning,-Jingyuan%20Li%2C%20Eli&text=Current%20state%2Dof%2Dthe%2D,in%20annotation%20and%20mislabeled%20data.)]
