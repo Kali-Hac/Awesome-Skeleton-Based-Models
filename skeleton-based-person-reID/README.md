@@ -65,7 +65,7 @@ Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMV
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (ECCV Workshop 2012)
 
 ###  Leaderboards
-The results are mainly from the paper of (**IJCAI 2021**) [[paper](https://doi.org/10.48550/arXiv.2204.09826)] (SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification). 
+The results are mainly from the paper of (**IJCAI 2022**) [[paper](https://doi.org/10.48550/arXiv.2204.09826)] (SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification). 
 |                    |     KS20 |          |          |          |     KGBD |          |          |          |    IAS-A |          |          |          |
 |--------------------|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
 | Methods            |    top-1 |    top-5 |   top-10 |      mAP |    top-1 |    top-5 |   top-10 |      mAP |    top-1 |    top-5 |   top-10 |      mAP |
