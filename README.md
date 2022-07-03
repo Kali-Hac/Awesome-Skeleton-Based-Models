@@ -30,7 +30,7 @@ We collect existing **skeleton-based models (369+ Papers & Codes)** published in
    * [Action Recognition Survey](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2022**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2021**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
-   * [**2020**)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
+   * [**2020**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2019**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognitionn)
    * [**2018**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2017**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
