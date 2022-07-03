@@ -1,7 +1,7 @@
 # Skeleton-Based Person Re-Identification (2012-2022) <!-- omit in toc --> 
 
 <!-- vscode-markdown-toc -->
-- [Skeleton-Based Person Re-Identification (S-reID)](#skeleton-based-person-re-identification-s-reid)
+- [Skeleton-Based Person Re-Identification](#skeleton-based-person-re-identification)
   - [**6** Datasets](#6-datasets)
   - [**2022**](#2022)
   - [**2021**](#2021)
@@ -18,7 +18,7 @@
 
 
 
-##  Skeleton-Based Person Re-Identification (S-reID)
+##  Skeleton-Based Person Re-Identification
 ### **6** Datasets
 Overview of **6** available datasets for **skeleton-based person re-identification** and their statistics, mainly from the paper of (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2009.03671)] (A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification). 
 ```
