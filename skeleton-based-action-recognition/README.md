@@ -132,35 +132,32 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 
 - **[Sym-GNN]** Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/document/9334430)] [[Github](https://github.com/LevelCA/Sym-GNN)] ![](https://img.shields.io/github/stars/LevelCA/Sym-GNN.svg?style=social) (Not uploaded)
 
-- **[X-CAR]** X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition(**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2022.3175605)]
+- **[X-CAR]** X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition (**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2022.3175605)]
 
-- **[FGCN]** Feedback Graph Convolutional Network for Skeleton-Based Action Recognition
-(**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2021.3129117)]
+- **[FGCN]** Feedback Graph Convolutional Network for Skeleton-Based Action Recognition (**TIP 2022**) [[paper](https://doi.org/10.1109/TIP.2021.3129117)]
 
-- **[Multi-LiSAAL]** Multi-Localized Sensitive Autoencoder-Attention-LSTM For Skeleton-based Action Recognition(**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
+- **[Multi-LiSAAL]** Multi-Localized Sensitive Autoencoder-Attention-LSTM For Skeleton-based Action Recognition (**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
 
-- **[LAGA-Net]** LAGA-Net: Local-and-Global Attention Network for Skeleton Based Action Recognition
-(**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
+- **[LAGA-Net]** LAGA-Net: Local-and-Global Attention Network for Skeleton Based Action Recognition (**TMM 2022**) [[paper](https://doi.org/10.1109/TMM.2021.3070127)]
 
-- **[CIASA]** Adversarial Attack on Skeleton-Based Human Action Recognition
-(**TNNLS 2022**) [[paper](https://doi.org/10.1109/TNNLS.2020.3043002)]
+- **[CIASA]** Adversarial Attack on Skeleton-Based Human Action Recognition (**TNNLS 2022**) [[paper](https://doi.org/10.1109/TNNLS.2020.3043002)]
 
-- **[MTT]** MTT: Multi-Scale Temporal Transformer for Skeleton-Based Action Recognition(**IEEE Signal Process. Lett. 2022**) [[paper](https://doi.org/10.1109/LSP.2022.3142675)]
+- **[MTT]** MTT: Multi-Scale Temporal Transformer for Skeleton-Based Action Recognition (**IEEE Signal Process. Lett. 2022**) [[paper](https://doi.org/10.1109/LSP.2022.3142675)]
 
-- **[Graph2Net]** Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3085959)] [[Github](https://github.com/cong-wu/Graph2Net)] ![](https://img.shields.io/github/stars/cong-wu/Graph2Net.svg?style=social)
+- **[Graph2Net]** Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3085959)] [[Github](https://github.com/cong-wu/Graph2Net)] ![](https://img.shields.io/github/stars/cong-wu/Graph2Net.svg?style=social)
 
 
-- A Cross View Learning Approach for Skeleton-Based Action Recognition(**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3100128)]
+- A Cross View Learning Approach for Skeleton-Based Action Recognition (**IEEE Trans. Circuits Syst. Video Technol. 2022**) [[paper](https://doi.org/10.1109/TCSVT.2021.3100128)]
 
-- Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3472722)] [[Github](https://github.com/shanice-l/st-cubism)] ![](https://img.shields.io/github/stars/shanice-l/st-cubism.svg?style=social)
+- Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition (**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3472722)] [[Github](https://github.com/shanice-l/st-cubism)] ![](https://img.shields.io/github/stars/shanice-l/st-cubism.svg?style=social)
 
-- Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition(**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3491228)]
+- Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition (**ACM Trans. Multim. Comput. Commun. Appl. 2022**) [[paper](https://doi.org/10.1145/3491228)]
 
-- **[SparseShift-GCN]** SparseShift-GCN: High precision skeleton-based action recognition(**Pattern Recognit. Lett. 2022**) [[paper](https://doi.org/10.1016/j.patrec.2021.12.005)]
+- **[SparseShift-GCN]** SparseShift-GCN: High precision skeleton-based action recognition (**Pattern Recognit. Lett. 2022**) [[paper](https://doi.org/10.1016/j.patrec.2021.12.005)]
 
-- **[FR-AGCN]** Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition(**Neurocomputing 2022**) [[paper](https://doi.org/10.1016/j.neucom.2021.12.054)] [[Github](https://github.com/Nanasaki-Ai/FR-AGCN)] ![](https://img.shields.io/github/stars/Nanasaki-Ai/FR-AGCN.svg?style=social)
+- **[FR-AGCN]** Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition (**Neurocomputing 2022**) [[paper](https://doi.org/10.1016/j.neucom.2021.12.054)] [[Github](https://github.com/Nanasaki-Ai/FR-AGCN)] ![](https://img.shields.io/github/stars/Nanasaki-Ai/FR-AGCN.svg?style=social)
 
-- **[ED-GCN]** Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition(**Comput. Vis. Image Underst. 2022**) [[paper](https://doi.org/10.1016/j.cviu.2021.103348)]
+- **[ED-GCN]** Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition (**Comput. Vis. Image Underst. 2022**) [[paper](https://doi.org/10.1016/j.cviu.2021.103348)]
 
 
 ### 2021 (Action Recognition)
