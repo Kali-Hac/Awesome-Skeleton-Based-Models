@@ -12,7 +12,7 @@ We collect existing **skeleton-based models (369+ Papers & Codes)** published in
 
 ## TODO <!-- omit in toc -->
 
-- [ ] Model List (**Papers & Codes**)
+- [ ] Paper List
   - [x] Skeleton-Based Action Recognition
   - [x] 3D Pose Estimation
   - [x] Skeleton-Based Person Re-Identification *(New!)*
