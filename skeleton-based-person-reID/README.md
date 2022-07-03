@@ -1,11 +1,11 @@
 <!-- vscode-markdown-toc -->
 - [Skeleton-Based Person Re-Identification (S-reID)](#skeleton-based-person-re-identification-s-reid)
-  - [Datasets](#datasets)
-  - [2022 (S-reID)](#2022-s-reid)
-  - [2021 (S-reID)](#2021-s-reid)
-  - [2020 (S-reID)](#2020-s-reid)
-  - [2019 (S-reID)](#2019-s-reid)
-  - [Before 2019 (S-reID)](#before-2019-s-reid)
+  - [**6** Datasets](#6-datasets)
+  - [**2022**](#2022)
+  - [**2021**](#2021)
+  - [**2020**](#2020)
+  - [**2019**](#2019)
+  - [Before 2019](#before-2019)
   - [Leaderboards](#leaderboards)
 
 <!-- vscode-markdown-toc-config
@@ -17,8 +17,8 @@
 
 
 ##  Skeleton-Based Person Re-Identification (S-reID)
-### Datasets
-Overview of available datasets for **skeleton-based person re-identification** and their statistics, mainly from the paper of (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2009.03671)] (A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification). 
+### **6** Datasets
+Overview of **6** available datasets for **skeleton-based person re-identification** and their statistics, mainly from the paper of (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2009.03671)] (A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification). 
 ```
 Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMVLP-Pose estimate 3D skeletons and 2D skeletons, respectively, from RGB images.
 ```
@@ -33,25 +33,25 @@ Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMV
 | OUMVLP-Pose (2D)         |   2020   |   10,307 |         6,667K |             14 | ——                             |
 
 
-### 2022 (S-reID)
+### **2022**
 - [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
 
-### 2021 (S-reID)
+### **2021**
 - [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification]([https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022](https://doi.org/10.24963/ijcai.2021/135)) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
 
 - [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (TPAMI 2021) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
 
-### 2020 (S-reID)
+### **2020**
 - [Human skeleton mutual learning for person re-identification](https://doi.org/10.1016/j.neucom.2019.12.120) (Neurocomputing 2020)
 
 - [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (IJCAI 2020) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
 
-### 2019 (S-reID)
+### **2019**
 - [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (ACM Trans. Multim. Comput. Commun. Appl. 2019)
 
 - [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (Comput. Graph. 2019)
 
-### Before 2019 (S-reID)
+### Before 2019
 - [Person Identification Using Anthropometric and Gait Data from Kinect Sensor](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9680) (AAAI 2015)
 
 - [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (ICRA 2014)
