@@ -95,7 +95,7 @@ The results are mainly from the paper of (**IJCAI 2021**) [[paper](https://doi.o
 | [AGE](https://github.com/Kali-Hac/SGE-LA)                |     31.1 |     52.3 |     64.2 |     12.8 |     11.7 |     21.4 |     27.3 |     12.6 |     25.1 |     43.1 |     61.6 |      8.9 |
 | [SGELA](https://github.com/Kali-Hac/Locality-Awareness-SGE)             |     22.2 |     40.8 |     50.2 |     14.0 |     11.7 |     14.0 |     14.7 |     19.0 |     25.8 |     51.8 |     64.4 | 15.1 |
 | [SM-SGE](https://github.com/Kali-Hac/SM-SGE)             |     38.9 |     64.1 |     75.8 |     13.3 |     13.2 |     25.8 |     33.5 |     15.2 |     31.3 |     56.3 |     69.1 |     10.1 |
-| SimMC (Ours)   | 46.3 | 68.1 | 77.0 | 22.9 | 24.5 | 36.7 | 44.5 | 19.9 | 41.7 | 66.6 | 76.8 |     12.3 |
+| SimMC   | 46.3 | 68.1 | 77.0 | 22.9 | 24.5 | 36.7 | 44.5 | 19.9 | 41.7 | 66.6 | 76.8 |     12.3 |
 | [SGELA](https://github.com/Kali-Hac/Locality-Awareness-SGE) + SimMC  |     21.2 |     39.1 |     48.8 |     14.0 |     18.4 |     23.1 |     25.0 |     28.7 |     51.8 |     71.3 |     74.4 |     43.3 |
 | [MG-SCR](https://github.com/Kali-Hac/MG-SCR) + SimMC |     52.4 |     72.0 |     78.8 |     29.1 |     25.1 |     37.5 |     46.4 |     20.3 |     28.3 |     51.6 |     64.8 |     10.9 |
 | [SM-SGE](https://github.com/Kali-Hac/SM-SGE) + SimMC |     55.3 |     72.6 |     80.3 |     34.1 |     25.9 |     39.2 |     45.2 |     22.4 |     42.6 |     64.8 |     76.2 |     15.4 |
