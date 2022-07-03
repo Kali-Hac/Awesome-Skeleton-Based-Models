@@ -1,15 +1,15 @@
 <!-- vscode-markdown-toc -->
 - [3D Pose Estimation](#3d-pose-estimation)
-  - [Datasets](#datasets)
-  - [2022 (3D Pose Estimation)](#2022-3d-pose-estimation)
-  - [2021 (3D Pose Estimation)](#2021-3d-pose-estimation)
-  - [2020 (3D Pose Estimation)](#2020-3d-pose-estimation)
-  - [2019 (3D Pose Estimation)](#2019-3d-pose-estimation)
-  - [2018 (3D Pose Estimation)](#2018-3d-pose-estimation)
-  - [2017 (3D Pose Estimation)](#2017-3d-pose-estimation)
-  - [Before 2017 (3D Pose Estimation)](#before-2017-3d-pose-estimation)
+  - [**13** Datasets](#13-datasets)
+  - [**2022**](#2022)
+  - [**2021**](#2021)
+  - [**2020**](#2020)
+  - [**2019**](#2019)
+  - [**2018**](#2018)
+  - [**2017**](#2017)
+  - [Before 2017](#before-2017)
   - [Real-Time 3D Pose Estimation](#real-time-3d-pose-estimation)
-  - [Leaderboards (3D Pose Estimation)](#leaderboards-3d-pose-estimation)
+  - [Leaderboards](#leaderboards)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -20,7 +20,7 @@
 
 
 ##  3D Pose Estimation
-###  Datasets
+###  **13** Datasets
 Overview of available datasets for **3D pose estimation** and their statistics, provided by the paper of (**Comput. Vis. Image Underst. 2021**) [[paper](https://www.sciencedirect.com/science/article/pii/S1077314221000692)] (Deep 3D human pose estimation: A review). 
 ```
 Bold shows the most-frequently used datasets in the literature.
@@ -42,7 +42,7 @@ Bold shows the most-frequently used datasets in the literature.
 |    12    | [JTA](http://imagelab.ing.unimore.it/jta)                          | 2018     | 500K frames      | > 21                       |
 |    13    | [3DPW](http://virtualhumans.mpi-inf.mpg.de/3DPW)                         | 2018     | 60 sequences     | 7                          |
 
-### 2022 (3D Pose Estimation)
+### **2022**
 - [Consensus-Based Optimization for 3D Human Pose Estimation in Camera Coordinates](https://doi.org/10.1007/s11263-021-01570-9) (IJCV 2022) [[Github](https://github.com/dluvizon/3d-pose-consensus)] ![](https://img.shields.io/github/stars/dluvizon/3d-pose-consensus.svg?style=social)
         
 - [Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction](https://doi.org/10.1007/s11263-022-01585-w) (IJCV 2022)
@@ -67,7 +67,7 @@ Bold shows the most-frequently used datasets in the literature.
   
 
 
-### 2021 (3D Pose Estimation)
+### **2021**
 - [Enhanced 3D Human Pose Estimation from Videos by Using Attention-Based Neural Network with Dilated Convolutions](https://doi.org/10.1007/s11263-021-01436-0) (IJCV 2021)
         
 - [3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://doi.org/10.1109/TPAMI.2020.2993627) (TPAMI 2021)
@@ -157,7 +157,7 @@ Bold shows the most-frequently used datasets in the literature.
 - [Direct Multi-view Multi-person 3D Pose Estimation](https://proceedings.neurips.cc/paper/2021/hash/6da9003b743b65f4c0ccd295cc484e57-Abstract.html) (NeurIPS 2021) [[Github](https://github.com/sail-sg/mvp)] ![](https://img.shields.io/github/stars/sail-sg/mvp.svg?style=social)   
   
 
-### 2020 (3D Pose Estimation)
+### **2020**
   
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/abs/1911.04131) (Arxiv 2020)
   
@@ -234,7 +234,7 @@ Bold shows the most-frequently used datasets in the literature.
 
 
 
-### 2019 (3D Pose Estimation)
+### **2019**
   
 - [3D Human Pose Machines with Self-supervised Learning](https://arxiv.org/pdf/1901.03798.pdf) (TPAMI 2019) [[Codes](http://www.sysu-hcp.net/3d_pose_ssl/)]
   
@@ -359,7 +359,7 @@ Bold shows the most-frequently used datasets in the literature.
 - [Geometric Pose Affordance: 3D Human Pose with Scene Constraints](https://arxiv.org/abs/1905.07718) - [[Page]](http://wangzheallen.github.io/GPA) (Arxiv 2019)
   
 
-### 2018 (3D Pose Estimation)
+### **2018**
 - [3D Human Pose Estimation in the Wild by Adversarial Learning](https://arxiv.org/pdf/1803.09722.pdf) (CVPR 2018)
   
 - [Ordinal Depth Supervision for 3D Human Pose Estimation](https://arxiv.org/pdf/1805.04095.pdf) (CVPR 2018) [[Github](https://github.com/geopavlakos/ordinal-pose3d)] ![](https://img.shields.io/github/stars/geopavlakos/ordinal-pose3d.svg?style=social)
@@ -415,7 +415,7 @@ Bold shows the most-frequently used datasets in the literature.
   
   
 
-### 2017 (3D Pose Estimation)
+### **2017**
 - [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) (SIGGRAPH 2017) [[Github](https://github.com/timctho/VNect-tensorflow)] ![](https://img.shields.io/github/stars/timctho/VNect-tensorflow.svg?style=social)
   
 - [Recurrent 3D Pose Sequence Machines](https://arxiv.org/pdf/1707.09695.pdf) (CVPR 2017)
@@ -451,7 +451,7 @@ Bold shows the most-frequently used datasets in the literature.
 - [Monocular 3D Human Pose Estimation In The Wild Using Improved CNN Supervision](http://gvv.mpi-inf.mpg.de/3dhp-dataset/) (3DV 2017)
   
 
-### Before 2017 (3D Pose Estimation)
+### Before 2017
 - [Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://pdfs.semanticscholar.org/4034/943de699dd4d672d3d59b408459168785e9c.pdf) (CVIU 2000)
 
 - [Covariance-Scaled Sampling for Monocular 3D Body Tracking](http://www.maths.lth.se/sminchisescu/media/papers/css_cvpr01.pdf) (CVPR 2001)
@@ -502,7 +502,7 @@ Bold shows the most-frequently used datasets in the literature.
 
 - [EventHands: Real-Time Neural 3D Hand Pose Estimation from an Event Stream](https://doi.org/10.1109/ICCV48922.2021.01216) (ICCV 2021) [[Github](https://github.com/r00tman/EventHands)] ![](https://img.shields.io/github/stars/r00tman/EventHands.svg?style=social)
 
-### Leaderboards (3D Pose Estimation)
+### Leaderboards
 - [Human3.6M](https://paperswithcode.com/sota/3d-human-pose-estimation-on-human36m)
 - [Human3.6M2](https://paperswithcode.com/task/3d-human-pose-estimation)
 - [MuPoTS-3D](https://paperswithcode.com/sota/3d-multi-person-pose-estimation-absolute-on?p=camera-distance-aware-top-down-approach-for-1
