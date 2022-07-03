@@ -27,7 +27,7 @@ We collect existing **skeleton-based models (369+ Papers & Codes)** published in
    * [Other Tracking Devices](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#other-tracking-devices)
  * [**1. Skeleton-Based Action Recognition**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**70** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
-   * [Action Recognition Survey](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
+   * [Survey Papers](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2022**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2021**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
    * [**2020**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
