@@ -39,7 +39,9 @@ Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMV
 - [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
 
 ### **2021**
-- [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification]([https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022](https://doi.org/10.24963/ijcai.2021/135)) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
+ - [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (ACMMM 2021) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
+
+- [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2021) [[Github](https://github.com/Kali-Hac/MG-SCR)] ![](https://img.shields.io/github/stars/Kali-Hac/MG-SCR.svg?style=social)
 
 - [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (TPAMI 2021) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
 
