@@ -7,7 +7,7 @@
 
 
 # Awesome-Skeleton-Based-Models <!-- omit in toc --> 
-We collect existing **skeleton-based models (papers & codes)** published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, IJCV, TIP, TMM, TNNLS, PMLR, etc*).
+We collect existing **skeleton-based models (369+ papers & codes)** published in prominent conferences (*CVPR, ICCV, ECCV, AAAI, IJCAI, ACMMM, ICLR, ICML, NeurIPS, etc*) and journals (*TPAMI, IJCV, TIP, TMM, TNNLS, PMLR, etc*).
 
 
 ## TODO <!-- omit in toc -->
@@ -20,49 +20,48 @@ We collect existing **skeleton-based models (papers & codes)** published in prom
   - [ ] Skeleton-Based Gait Recognition
   - [ ] Others (Skeleton-Based Motion Prediction, Interaction Recognition, etc)
 
+
 ## Contents <!-- omit in toc -->
-
- * [**0. Skeleton Tracking**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking)
-   * [Microsoft Kinect](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#microsoft-kinect)
-   * [Other Tracking Devices](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#other-tracking-devices)
- * [**1. Skeleton-Based Action Recognition**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition)
-   * [**70** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#popular-datasets)
-   * [Action Recognition Survey](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#action-recognition-survey)
-   * [**2022** (15+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2022-action-recognition)
-   * [**2021** (35+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2021-action-recognition)
-   * [**2020** (20+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2020-action-recognition)
-   * [**2019** (10+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2019-action-recognition)
-   * [**2018** (10+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2018-action-recognition)
-   * [**2017** (10+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2017-action-recognition)
-   * [Before 2017](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#before-2017-action-recognition)
-   * [arXiv papers](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#arxiv-papers-action-recognition)
-   * [Skeleton-based Action Recognition under Adversarial Attack](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#skeleton-based-action-recognition-under-adversarial-attack)
-   * [Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#LeaderboardsonNTU-RGBDandNTU-RGBD120Datasets)
+* <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking" target="_blank">**0. Skeleton Tracking**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#microsoft-kinect" target="_blank">Microsoft Kinect</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-tracking#other-tracking-devices" target="_blank">Other Tracking Devices</a>
+ * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition" target="_blank">**1. Skeleton-Based Action Recognition**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#popular-datasets" target="_blank">**70** Datasets</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#action-recognition-survey" target="_blank">Action Recognition Survey</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2022-action-recognition" target="_blank">**2022**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2021-action-recognition" target="_blank">**2021**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2020-action-recognition" target="_blank">**2020**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2019-action-recognition" target="_blank">**2019**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2018-action-recognition" target="_blank">**2018**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#2017-action-recognition" target="_blank">**2017**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#before-2017-action-recognition" target="_blank">Before 2017</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#arxiv-papers-action-recognition" target="_blank">arXiv papers</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#skeleton-based-action-recognition-under-adversarial-attack" target="_blank">Skeleton-based Action Recognition under Adversarial Attack</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-action-recognition#LeaderboardsonNTU-RGBDandNTU-RGBD120Datasets" target="_blank">Leaderboards</a>
  
 
 
 
- * [**2. 3D Pose Estimation**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation)
-   * [**13** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#datasets)
-   * [**2022** (10+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2022-3d-pose-estimationn)
-   * [**2021** (40+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2021-3d-pose-estimation)
-   * [**2020** (35+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2020-3d-pose-estimation)
-   * [**2019** (60+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2019-3d-pose-estimation)
-   * [**2018** (25+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2018-3d-pose-estimation)
-   * [**2017** (15+ papers & codes)](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2017-3d-pose-estimation)
-   * [Before 2017](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#before-2017-3d-pose-estimation)
-   * [Real-Time 3D Pose Estimation](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#real-time-3d-pose-estimation)
-   * [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#leaderboards-3d-pose-estimation)
- 
+ * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation" target="_blank">**2. 3D Pose Estimation**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#datasets" target="_blank">**13** Datasets</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2022-3d-pose-estimation" target="_blank">**2022**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2021-3d-pose-estimation" target="_blank">**2021**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2020-3d-pose-estimation" target="_blank">**2020**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2019-3d-pose-estimation" target="_blank">**2019**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2018-3d-pose-estimation" target="_blank">**2018**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#2017-3d-pose-estimation" target="_blank">**2017**</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#before-2017-3d-pose-estimation" target="_blank">Before 2017</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#real-time-3d-pose-estimation" target="_blank">Real-Time 3D Pose Estimation</a>
+   * <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/3D-pose-estimation#leaderboards-3d-pose-estimation" target="_blank">*Leaderboards</a>
 
-- [**3. Skeleton-Based Person Re-Identification**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#skeleton-based-person-re-identification-s-reid)
-  - [**6** Datasets](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#datasets)
-  - [**2022**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2022-s-reid)
-  - [**2021**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid)
-  - [**2020**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2020-s-reid)
-  - [**2019**](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
-  - [Before 2019](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid)
-  - [Leaderboards](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards)
+- <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID" target="_blank">**3. Skeleton-Based Person Re-Identification**</a>[]()
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#datasets" target="_blank">**6** Datasets</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2022-s-reid" target="_blank">**2022**</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid" target="_blank">**2021**</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2021-s-reid)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2020-s-reid" target="_blank">**2020**</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2020-s-reid)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid" target="_blank">**2019**</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#2019-s-reid)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#before-2019-s-reid" target="_blank">Before 2019</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID)
+  - <a href="https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID#leaderboards" target="_blank">Leaderboards</a>[](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models/tree/main/skeleton-based-person-reID)
 
 
 
