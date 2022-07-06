@@ -18,6 +18,7 @@
 	- [Leaderboards on NTU-RGB+D and NTU-RGB+D 120 Datasets](#leaderboards-on-ntu-rgbd-and-ntu-rgbd-120-datasets)
 		- [NTU-RGB+D](#ntu-rgbd)
 		- [NTU-RGB+D 120](#ntu-rgbd-120)
+		- [Others](#others)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -419,5 +420,19 @@ S: Skeleton, D: Depth, IR: Infrared, PC: Point Cloud, ES: Event Stream, Au: Audi
 | 2021 | EfficientGCN-B4                     |     88.3      |    89.1     |
 | 2021 | CTR-GCN                             |     88.9      |    90.6     |
 
+#### Others
+- [Kinetics-Skeleton Dataset](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-kinetics)
+- [SYSU 3D](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-sysu-3d)
+- [N-UCLA](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-n-ucla
+)
+- [SBU](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-sbu
+)
+- [CAD-120](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-cad-120)
+- [UT-Kinect](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ut)
+- [MSR Action3D](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-msr)
+- [J-HMDB](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-j-hmdb)
+- [CAD-120](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-cad-120)
+- [Florence 3D](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-florence)
+- [UAV-Human](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav)
 
 
