@@ -83,18 +83,6 @@ We collect existing **skeleton-based models (369+ Papers & Codes)** published in
 
 ##  Skeleton-Based Action Recognition (2013-2022)
 ###  **70** Datasets
-#### Popular & New
-- *(New! 2021)* **PoseC3D 2D Skeleton Dataset (FineGYM, NTURGB-D, Kinetics, Volleyball)** [[arxiv](https://arxiv.org/pdf/2104.13586.pdf), [Github](https://github.com/open-mmlab/mmaction2/tree/master/tools/data/skeleton)] ![](https://img.shields.io/github/stars/open-mmlab/mmaction2.svg?style=social)
-- *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)] ![](https://img.shields.io/github/stars/skelemoa/ntu-x.svg?style=social)
-- *(2019)* **NTU RGB+D 120 Dataset** [[Homepage](https://rose1.ntu.edu.sg/dataset/actionRecognition/),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
-- NTU RGB+D Dataset [[Homepage](https://rose1.ntu.edu.sg/dataset/actionRecognition/),[Github](https://github.com/shahroudy/NTURGB-D)] ![](https://img.shields.io/github/stars/shahroudy/NTURGB-D.svg?style=social)
-- (2018) VARYING-VIEW RGB-D ACTION DATASET [[arxiv](https://arxiv.org/pdf/1904.10681.pdf), [Github](https://github.com/HRI-UESTC/CFM-HRI-RGB-D-action-database)] ![](https://img.shields.io/github/stars/HRI-UESTC/CFM-HRI-RGB-D-action-database.svg?style=social)
-- (2017) SYSU 3D Human-Object Interaction Dataset (**SYSU**)
-- (2015) UWA3D Multiview Activity II Dataset (**UWA3D**) [[download](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)]
-- (2014) Northwestern-UCLA Dataset (**N-UCLA**) [[donwload](https://users.eecs.northwestern.edu/~jwa368/my_data.html)]
-<!-- - SBU Kinect Interaction Dataset (**SBU**) -->
-
-#### Overview
 Overview of **70** available datasets (2004-2022) for **action recognition** and their statistics, provided by the paper of (**TPAMI 2022**) [[arxiv](https://arxiv.org/abs/2012.11866)] (Human Action Recognition from Various Data Modalities: A Review). 
 
 ```
